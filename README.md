@@ -5,7 +5,7 @@ Download nitro generator that generates free nitro code that you can use for Dis
 GENERATOR SETUP<br>
 1 | Download Generator Codes<br>
 2 | Download and setup python<br>
-3 | Download "discord_webhook" with Python.<br><br>
+3 | Install "discord_webhook" with Python.<br><br>
 
 YOUTUBE: https://www.youtube.com/c/UmutBayraktarYT<br>
 DISCORD: https://discord.gg/6XGqdgE & https://discord.gg/Fy4WmSThRZ<br>
