@@ -2,6 +2,7 @@
 Download nitro generator that generates free nitro code that you can use for Discord, run it and wait for free nitro to come
 
 
+SETUP VIDEO: https://youtu.be/0_am40N8uwI<br><br>
 GENERATOR SETUP<br>
 1 | Download Generator Codes<br>
 2 | Download and setup python<br>
