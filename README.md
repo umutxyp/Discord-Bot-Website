@@ -1,4 +1,4 @@
-# Astra Music React Native Website
+# Astra Music React Native Website & Next.js
 <br>
 <h3>ADD ASTRA BOT: https://bit.ly/3PHDjyC</h3>
 <h3>VOTE ASTRA: https://bit.ly/3LYzaDe</h3>
