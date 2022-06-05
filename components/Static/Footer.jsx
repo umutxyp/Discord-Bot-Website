@@ -108,13 +108,13 @@ export default function Footer() {
                             {"Astra Bot ❤️"}
                         </p>
 <a href="https://top.gg/bot/924325576095973426">
-  <img src="https://top.gg/api/widget/servers/924325576095973426.svg">
+  <img src="https://top.gg/api/widget/servers/924325576095973426.svg"/>
 </a>
 <a href="https://top.gg/bot/924325576095973426">
-  <img src="https://top.gg/api/widget/upvotes/924325576095973426.svg">
+  <img src="https://top.gg/api/widget/upvotes/924325576095973426.svg"/>
 </a>
 <a href="https://top.gg/bot/924325576095973426">
-  <img src="https://top.gg/api/widget/owner/924325576095973426.svg">
+  <img src="https://top.gg/api/widget/owner/924325576095973426.svg"/>
 </a>
                     </div>
                 </div>
