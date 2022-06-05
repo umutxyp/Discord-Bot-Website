@@ -5,6 +5,7 @@ export default function Commands() {
   const commands = [
     "/help",
     "/invite",
+    "/lyrics",
     "/ping",
     "/stats",
     "/setdj",
