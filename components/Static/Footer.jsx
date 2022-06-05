@@ -29,13 +29,16 @@ export default function Footer() {
                                             aria-hidden="true"
                                         />
                                     </Menu.Button>
-<a className="py-2" href="https://top.gg/bot/924325576095973426">
+<div className="py-2"></div>
+<a href="https://top.gg/bot/924325576095973426">
   <img src={"https://top.gg/api/widget/servers/924325576095973426.svg"}/>
 </a>
-<a className="py-2" href="https://top.gg/bot/924325576095973426">
+<div className="py-2"></div>
+<a href="https://top.gg/bot/924325576095973426">
   <img src={"https://top.gg/api/widget/upvotes/924325576095973426.svg"}/>
 </a>
-<a className="py-2" href="https://top.gg/bot/924325576095973426">
+<div className="py-2"></div>
+<a href="https://top.gg/bot/924325576095973426">
   <img src={"https://top.gg/api/widget/owner/924325576095973426.svg"}/>
 </a>
                                 </div>
