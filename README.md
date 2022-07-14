@@ -1,8 +1,7 @@
 # Astra Music React Native Website & Next.js
 <br>
 <h3>ASTRA WEBSITE: https://astrabot.vercel.app/</h3>
-<h3>ASTRA SOURCE CODE: https://github.com/1umutda/MusicBot</h3>
-<h3>UMUT BAYRAKTAR YOUTUBE: https://www.youtube.com/UmutBayraktarYT</h3>
+<h3>UMUT BAYRAKTAR YOUTUBE: https://bit.ly/3zgizYR</h3>
 <h3>CODE SHARE DISCORD: https://discord.gg/6XGqdgE</h3>
 <hr>
 <h3>
