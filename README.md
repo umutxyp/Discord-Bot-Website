@@ -1,4 +1,4 @@
-# Astra Music React Native Website & Next.js
+# Discord Bot React Native Website & Next.js
 <br>
 <h3>WEBSITE THEME: https://astrabot.vercel.app/</h3>
 <h3>UMUT BAYRAKTAR YOUTUBE: https://bit.ly/3zgizYR</h3>
