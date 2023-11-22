@@ -105,7 +105,7 @@ export default function Footer() {
                                 </p>
                         </div>
                         <p className="text-white text-center sm:text-right text-opacity-50">
-                            {"MusicMaker is powered by Nodesty and Code Share. ❤️"}
+                            {"Powered by Nodesty ❤️"}
                         </p>
                     </div>
                 </div>
