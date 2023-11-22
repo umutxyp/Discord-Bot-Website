@@ -8,7 +8,7 @@ const ErrorPage = ({ code, message }) => {
     
     return <>
         <Head>
-            <title>{code} | Astra Bot</title>
+            <title>{code} | MusicMaker</title>
         </Head>
 
         <div className="max-w-7xl text-center py-20 mx-auto">
