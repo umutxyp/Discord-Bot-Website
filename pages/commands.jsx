@@ -2,29 +2,35 @@ import { Menu, Transition } from "@headlessui/react";
 import Link from "next/link";
 
 export default function Commands() {
-  const commands = [
-    "/help",
-    "/invite",
-    "/lyrics",
-    "/ping",
-    "/stats",
-    "/setdj",
-    "/play",
-    "/serach",
-    "/stop",
-    "/skip",
-    "/back",
-    "/clear",
-    "/time",
-      "/queue",
-      "/pause",
-      "/resume",
-      "/volume",
-      "/nowplaying",
-      "/save",
-      "/loop",
-      "/filter"
-      ]
+const commands = [
+  "/autoplay",
+  "/back",
+  "/statistic",
+  "/channel",
+  "/clear",
+  "/dj",
+  "/filter",
+  "/help",
+  "/language",
+  "/loop",
+  "/nowplaying",
+  "/pause",
+  "/ping",
+  "/play",
+  "/playlist",
+  "/queue",
+  "/resume",
+  "/save",
+  "/search",
+  "/seek",
+  "/servers",
+  "/shuffle",
+  "/skip",
+  "/stop",
+  "/time",
+  "/volume"
+];
+
   return (
     <>
       <div>
@@ -36,7 +42,7 @@ export default function Commands() {
          Bot Commands
         </p>
         <p className="text-white text-sm text-opacity-50 mb-5">
-        You can get information about the commands of the Astra Bot.
+        You can get information about the commands of the MusicMaker Bot.
         </p>
 
         <div>
@@ -64,13 +70,13 @@ export default function Commands() {
               <Menu.Items className="z-1 custom-scroll absolute left-0 w-full mt-2 origin-top-right bg-black overflow-auto max-h-60 border border-black border-opacity-20 bg-opacity-95 rounded-lg p-1">
                 <div className="px-1 py-1 w-full">
 
-            {commands.map(astra => (
+            {commands.map(mm => (
 
                 <Menu.Item>
                     <button className={`w-full rounded-lg p-2 cursor-pointer text-white flex items-center space-x-3 transition-all duration-200`}>
                     <>
                           <i className="fa-spin text-xl text-white text-opacity-20" />
-                         {astra}</>
+                         {mm}</>
                     </button>
                     </Menu.Item>
             ))}
@@ -83,9 +89,9 @@ export default function Commands() {
 
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
-  <Link href={"https://bit.ly/3PHDjyC"}>
+  <Link href={"https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028620608&scope=applications.commands%20bot"}>
   <a className={"flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Invite Astra</a>
+Invite MusicMaker</a>
   </Link>
 
   <div className="py-10"></div>
@@ -97,9 +103,9 @@ Support Server</a>
 
   <div className="py-10"></div>
   
-  <Link href={"https://bit.ly/3LYzaDe"}>
+  <Link href={"https://top.gg/bot/774043716797071371/vote"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Vote Astra</a>
+Vote MusicMaker</a>
   </Link>
 </div>
 
