@@ -71,7 +71,7 @@ export default function AwardApp({ Component, pageProps }) {
       />
       <Head>
         <title>
-          Astra Bot
+          MusicMaker
         </title>
       </Head>
       <main className="transition-all duration-200 z-10 absolute inset-0 px-5 h-screen max-w-7xl w-full mx-auto">
