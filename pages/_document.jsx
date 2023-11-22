@@ -35,7 +35,7 @@ class MyDocument extends Document {
             property="og:site_name"
             content="MusicMaker"
           />
-          <meta name="theme-color" content="#6108dd" />
+          <meta name="theme-color" content="#087ddd" />
           <link rel="icon" href="/img/logo.jpg" type="image/x-icon" />
           <link
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
