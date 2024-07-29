@@ -10,7 +10,7 @@ export default function Index() {
       <img width="500" src="/img/bck.png" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
-          MusicMaker
+          DD Master
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
        How about moderating your own server with MusicMaker? Create your own free world and create your own playlist, experience this pleasure with the best sounds. 
