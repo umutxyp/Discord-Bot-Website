@@ -24,7 +24,7 @@ export default function Index() {
                 </div>
             </div>
 
-            <div className="fixed top-0 left-0 w-full h-full z-0 undrag pointer-events-none grayscale">
+            <div className="hidden fixed top-0 left-0 w-full h-full z-0 undrag pointer-events-none grayscale xl:block undrag opacity-10 flex-shrink-0 rotate-[1deg]">
                 <Image
                     src="/img/gift-left.jpg"
                     alt="Background Image"
