@@ -4,7 +4,7 @@ import Image from "next/image";
 export default function Index() {
     return (
         <>
-            <div className="min-h-screen flex flex-col py-20 mb-30 max-w-3xl mx-auto relative z-10">
+            <div className="flex flex-col py-20 mb-30 max-w-3xl mx-auto relative z-10">
                 <p className="animateHeader text-4xl font-extrabold text-center text-white">
                     DD Master
                 </p>
@@ -13,11 +13,7 @@ export default function Index() {
                 </p>
                 <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
                     <Link href={"https://discord.com/oauth2/authorize?client_id=1255576744577208401"}>
-                        <a
-                            className={
-                                "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"
-                            }
-                        >
+                        <a className="flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white">
                             Invite DD Master
                         </a>
                     </Link>
