@@ -33,12 +33,12 @@ export default function Index() {
 {/*  </Link>*/}
         </div>
 
-        <div style={{ zIndex: '-1' }} className="hidden xl:block undrag pointer-events-none opacity-10 -left-[10vw] absolute top-[8vw] h-[35vw] flex-shrink-0 grayscale rotate-[1deg]">
-        <Image width="600" height="600" src="/img/gift-left.jpg"  />
+        <div style={{ zIndex: '-1' }} className="hidden xl:block undrag pointer-events-none opacity-10 absolute flex-shrink-0 grayscale rotate-[1deg]">
+        <Image width="1920" height="1080" src="/img/gift-left.jpg"  />
         </div>
-        <div style={{ zIndex: '-1' }} className="hidden xl:block undrag opacity-10 pointer-events-none -right-[15vw] absolute top-[13vw] h-[90vw] grayscale -rotate-9">
-        <Image  width="600" height="600" src="/img/gift-right.jpg"  />
-        </div>
+        {/*<div style={{ zIndex: '-1' }} className="hidden xl:block undrag opacity-10 pointer-events-none -right-[15vw] absolute top-[13vw] h-[90vw] grayscale -rotate-9">*/}
+        {/*<Image  width="600" height="600" src="/img/gift-right.jpg"  />*/}
+        {/*</div>*/}
       </div>
 
 
