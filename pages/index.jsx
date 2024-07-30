@@ -7,13 +7,13 @@ export default function Index() {
     <>
       <div className="py-20 mb-30 max-w-3xl mx-auto">
         <div className="flex w-full justify-center">
-      <img width="500" src="/img/bck.png" />
+      <img width="1080" src="/img/bck.png" alt={'background-image'}/>
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
           DD Master
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-       How about moderating your own server with DD Master? Create your own free world and create your own playlist, experience this pleasure with the best sounds. 
+            DD Master is your multi-purpose Discord bot designed for fun, entertainment, and utility. With DD Master features, you can go mining, try your luck at gambling, play mini-games, and much more!
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
@@ -27,10 +27,10 @@ export default function Index() {
               </a>
             </Link>
   <div className="py-10"></div>
-  <Link href={"https://top.gg/bot/774043716797071371/vote"}>
-  <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Vote DD Master</a>
-  </Link>
+{/*  <Link href={"https://top.gg/bot/774043716797071371/vote"}>*/}
+{/*  <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>*/}
+{/*Vote DD Master</a>*/}
+{/*  </Link>*/}
         </div>
 
         <div style={{ zIndex: '-1' }} className="hidden xl:block undrag pointer-events-none opacity-10 -left-[10vw] absolute top-[8vw] h-[35vw] flex-shrink-0 grayscale rotate-[1deg]">
