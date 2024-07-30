@@ -46,20 +46,20 @@ export default function AwardApp({ Component, pageProps }) {
       activeIcon: "fab fa-robot",
       href: "https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028620608&scope=bot%20applications.commands",
     },
-       {
-      link: true,
-      name: "Vote",
-      icon: "fa fa-plus",
-      activeIcon: "fa fa-plus",
-      href: "https://top.gg/bot/774043716797071371/vote",
-    },
-    {
-      link: true,
-      name: "Partners",
-      icon: "fal fa-handshake",
-      activeIcon: "fa fa-handshake",
-      href: "/partners",
-    }
+    //    {
+    //   link: true,
+    //   name: "Vote",
+    //   icon: "fa fa-plus",
+    //   activeIcon: "fa fa-plus",
+    //   href: "https://top.gg/bot/774043716797071371/vote",
+    // },
+    // {
+    //   link: true,
+    //   name: "Partners",
+    //   icon: "fal fa-handshake",
+    //   activeIcon: "fa fa-handshake",
+    //   href: "/partners",
+    // }
   ]
 
   return (
