@@ -35,14 +35,14 @@ const commands = [
     <>
       <div>
       <div className="flex w-full justify-center">
-      <img width="500" src="/img/bck2.png" />
+      <img width="661" src="/img/bck2.png"  alt={'second-background'}/>
       </div>
         <p className="text-xl font-medium text-white">
           <i className="fal fa-cogs text-amber-400 mr-2" />
          Bot Commands
         </p>
         <p className="text-white text-sm text-opacity-50 mb-5">
-        You can get information about the commands of the MusicMaker Bot.
+        You can get information about the commands of the DD Master Bot.
         </p>
 
         <div>
@@ -91,7 +91,7 @@ const commands = [
   
   <Link href={"https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028620608&scope=applications.commands%20bot"}>
   <a className={"flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Invite MusicMaker</a>
+Invite DD Master</a>
   </Link>
 
   <div className="py-10"></div>
@@ -105,7 +105,7 @@ Support Server</a>
   
   <Link href={"https://top.gg/bot/774043716797071371/vote"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Vote MusicMaker</a>
+Vote DD Master</a>
   </Link>
 </div>
 
