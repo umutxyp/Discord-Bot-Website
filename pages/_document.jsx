@@ -14,11 +14,11 @@ class MyDocument extends Document {
             content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
           />
           <meta name="twitter:card" content="summary" />
-          <meta name="twitter:site" content="@MusicMaker" />
-          <meta name="twitter:creator" content="@MusicMaker" />
+          <meta name="twitter:site" content="@DD Master" />
+          <meta name="twitter:creator" content="@DD Master" />
           <meta property="og:url" content="https://musicmaker.vercel.app" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="MusicMaker" />
+          <meta property="og:title" content="DD Master" />
           <link
             rel="icon"
             href="/img/logo2.png"
@@ -29,11 +29,11 @@ class MyDocument extends Document {
             content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
           />
           <meta property="og:image" content="/img/logo.jpg" />
-          <meta property="og:image:alt" content="MusicMaker" />
+          <meta property="og:image:alt" content="DD Master" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
-            content="MusicMaker"
+            content="DD Master"
           />
           <meta name="theme-color" content="#087ddd" />
           <link rel="icon" href="/img/logo.jpg" type="image/x-icon" />
