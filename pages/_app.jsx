@@ -82,7 +82,7 @@ export default function AwardApp({ Component, pageProps }) {
         <Footer />
       </main>
       <div>
-        <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js" />
+        {/*<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js" />*/}
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js" />
         <script src="/js/main.js?i=2" />
       </div>
