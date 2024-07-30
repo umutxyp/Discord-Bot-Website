@@ -6,9 +6,9 @@ export default function Index() {
   return (
     <>
       <div className="py-20 mb-30 max-w-3xl mx-auto">
-        <div className="flex w-full justify-center">
-      <img width="720" src="/img/bck.png" alt={'background-image'}/>
-      </div>
+      {/*  <div className="flex w-full justify-center">*/}
+      {/*<img width="720" src="/img/bck.png" alt={'background-image'}/>*/}
+      {/*</div>*/}
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
           DD Master
         </p>
