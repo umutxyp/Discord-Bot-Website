@@ -34,10 +34,10 @@ export default function Index() {
         </div>
 
         <div style={{ zIndex: '-1' }} className="hidden xl:block undrag pointer-events-none opacity-10 -left-[10vw] absolute top-[8vw] h-[35vw] flex-shrink-0 grayscale rotate-[1deg]">
-        <Image width="600" height="600" src="/img/gift-left.png"  />
+        <Image width="600" height="600" src="/img/gift-left.jpg"  />
         </div>
         <div style={{ zIndex: '-1' }} className="hidden xl:block undrag opacity-10 pointer-events-none -right-[15vw] absolute top-[13vw] h-[90vw] grayscale -rotate-9">
-        <Image  width="600" height="600" src="/img/gift-right.png"  />
+        <Image  width="600" height="600" src="/img/gift-right.jpg"  />
         </div>
       </div>
 
