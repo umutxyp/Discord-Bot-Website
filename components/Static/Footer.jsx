@@ -4,8 +4,8 @@ export default function Footer() {
 
     return (
         <>
-            <footer className="relative top-64 py-10">
-                <div className="pt-10 mx-auto">
+            <footer className="py-10">
+                <div className="relative top-64 pt-10 mx-auto">
                     <div className="lg:grid lg:grid-cols-6 gap-20">
                         <div className="col-span-3">
                             <div className="flex items-center space-x-5">

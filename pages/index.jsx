@@ -4,7 +4,7 @@ import Image from "next/image";
 export default function Index() {
     return (
         <>
-            <div className="flex flex-col py-20 mb-30 max-w-3xl mx-auto relative z-10">
+            <div className="flex flex-col py-20 mb-30 max-w-3xl mx-auto relative z-10 overflow-hidden">
                 <p className="animateHeader text-4xl font-extrabold text-center text-white">
                     DD Master
                 </p>
