@@ -37,7 +37,7 @@ export default function AwardApp({ Component, pageProps }) {
       name: "Support",
       icon: "fab fa-discord",
       activeIcon: "fab fa-discord",
-      href: "https://discord.gg/ZcDprCrFTn",
+      href: "https://discord.gg/ACJQzJuckW",
     },
     {
       link: true,
@@ -45,13 +45,6 @@ export default function AwardApp({ Component, pageProps }) {
       icon: "fal fa-robot",
       activeIcon: "fab fa-robot",
       href: "https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028620608&scope=bot%20applications.commands",
-    },
-       {
-      link: true,
-      name: "Vote",
-      icon: "fa fa-plus",
-      activeIcon: "fa fa-plus",
-      href: "https://top.gg/bot/774043716797071371/vote",
     },
     {
       link: true,
