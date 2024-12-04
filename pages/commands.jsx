@@ -96,7 +96,7 @@ Invite MusicMaker</a>
 
   <div className="py-10"></div>
   
-  <Link href={"https://discord.gg/ZcDprCrFTn"}>
+  <Link href={"https://discord.gg/ACJQzJuckW"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
 Support Server</a>
   </Link>
