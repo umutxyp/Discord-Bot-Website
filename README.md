@@ -86,8 +86,8 @@ Example localized URLs:
 ### Installation
 
 ```bash
-git clone https://github.com/umutxyp/MusicBot.git
-cd MusicBot
+git clone https://github.com/umutxyp/Discord-Bot-Website.git
+cd Discord-Bot-Website
 npm install
 ```
 
