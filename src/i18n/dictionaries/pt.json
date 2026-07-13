@@ -1,0 +1,584 @@
+{
+    "meta": {
+        "title": "Beatra — O Melhor Bot de Música Gratuito para Discord",
+        "description": "Adicione o Beatra ao seu servidor Discord para streaming de música de alta qualidade, disponibilidade 24/7 e custo zero. Simples, confiável e open source."
+    },
+    "nav": {
+        "home": "Início",
+        "commands": "Comandos",
+        "partners": "Parceiros",
+        "support": "Suporte",
+        "invite": "Convidar",
+        "premium": "Premium",
+        "customize": "Personalizar",
+        "close": "Fechar"
+    },
+    "hero": {
+        "eyebrow": "Grátis para sempre · Sem cartão de crédito",
+        "title": "Um bot de Discord que simplesmente funciona",
+        "subtitle": "O Beatra traz streaming de música de alta qualidade para o seu servidor com disponibilidade 24/7, comandos simples e custo de configuração zero.",
+        "ctaPrimary": "Convidar Beatra",
+        "ctaSecondary": "Entrar no servidor de suporte",
+        "highlights": [
+            "YouTube, Spotify e SoundCloud",
+            "Letras, filas e playlists",
+            "Controle pelo painel web"
+        ]
+    },
+    "stats": {
+        "uptime": {
+            "value": "24/7",
+            "label": "Disponibilidade"
+        },
+        "cost": {
+            "value": "Grátis",
+            "label": "Custo"
+        },
+        "servers": {
+            "value": "Ilimitados",
+            "label": "Servidores"
+        },
+        "setup": {
+            "value": "< 1 min",
+            "label": "Configuração"
+        }
+    },
+    "features": {
+        "eyebrow": "Por que Beatra",
+        "title": "Feito para cada servidor, desde o primeiro dia",
+        "subtitle": "De pequenos grupos de amigos a comunidades com milhares de membros, o Beatra cresce com você.",
+        "items": [
+            {
+                "icon": "bolt",
+                "title": "Sempre online",
+                "description": "Disponibilidade 24/7 apoiada por infraestrutura monitorada, para que seu servidor nunca fique em silêncio."
+            },
+            {
+                "icon": "sliders",
+                "title": "Controle refinado",
+                "description": "Configurações rápidas e personalizáveis adaptadas ao seu servidor, para que o Beatra se comporte exatamente como você quer."
+            },
+            {
+                "icon": "shieldCheck",
+                "title": "Aberto e seguro",
+                "description": "O Beatra é open source. Explore o código, audite você mesmo ou contribua diretamente no GitHub."
+            },
+            {
+                "icon": "lifebuoy",
+                "title": "Suporte constante",
+                "description": "Uma equipe atenciosa por trás do nosso servidor de suporte, pronta para ajudar quando você precisar."
+            }
+        ]
+    },
+    "cta": {
+        "title": "Pronto para elevar o nível do seu servidor?",
+        "subtitle": "Adicione o Beatra em segundos e comece a transmitir a melhor qualidade de som que o Discord pode oferecer.",
+        "button": "Convidar Beatra"
+    },
+    "footer": {
+        "description": "O melhor bot de música gratuito para Discord. Áudio de alta qualidade com disponibilidade 24/7, totalmente grátis.",
+        "bot": {
+            "title": "Bot",
+            "invite": "Convidar bot",
+            "vote": "Votar",
+            "support": "Servidor de suporte"
+        },
+        "site": {
+            "title": "Site",
+            "commands": "Comandos",
+            "partners": "Parceiros",
+            "github": "GitHub"
+        },
+        "legal": {
+            "title": "Legal",
+            "tos": "Termos de Serviço",
+            "privacy": "Política de Privacidade"
+        },
+        "status": "Todos os sistemas operacionais",
+        "credit": "Desenvolvido por {name}"
+    },
+    "commands": {
+        "title": "Comandos do bot",
+        "subtitle": "Todos os comandos slash que o Beatra suporta, prontos para usar no seu servidor.",
+        "groups": {
+            "playback": "Reprodução",
+            "queue": "Fila e playlists",
+            "utility": "Servidor e utilitários"
+        },
+        "ctaInvite": "Convidar Beatra",
+        "ctaSupport": "Servidor de suporte",
+        "ctaVote": "Votar no Beatra"
+    },
+    "partners": {
+        "title": "Parceiros",
+        "subtitle": "As equipes e comunidades com as quais temos orgulho de trabalhar.",
+        "codeshare": "Uma plataforma ideal para desenvolvedores compartilharem seus projetos, se conectarem com outros desenvolvedores e venderem seu trabalho em várias categorias e idiomas.",
+        "productsTitle": "Produtos da Codeshare",
+        "productsSubtitle": "Outros produtos criados e mantidos pela equipe da Codeshare."
+    },
+    "privacy": {
+        "title": "Política de Privacidade",
+        "updated": "Última atualização: 13 de julho de 2026",
+        "sections": [
+            {
+                "heading": "O que coletamos",
+                "items": [
+                    "ID de usuário do Discord — para autenticação e permissões",
+                    "ID do servidor Discord — para rastrear onde o bot está instalado",
+                    "Histórico de reprodução — títulos das músicas, URLs e quem solicitou",
+                    "Dados de conexão ao canal de voz — necessários para reprodução",
+                    "Dados de playlists — suas listas personalizadas",
+                    "Informações da fila — músicas atuais e futuras"
+                ],
+                "note": "Não coletado: senhas, dados de pagamento, mensagens privadas ou gravações de voz."
+            },
+            {
+                "heading": "Como usamos os dados",
+                "items": [
+                    "Reprodução de música e gerenciamento de fila",
+                    "Permissões baseadas em cargos e controle de acesso",
+                    "Armazenamento de playlists e preferências",
+                    "Entrega de benefícios premium",
+                    "Monitoramento de qualidade do serviço e prevenção de abusos"
+                ],
+                "note": "Não vendemos seus dados nem os usamos para perfil publicitário."
+            },
+            {
+                "heading": "Segurança",
+                "items": [
+                    "Banco de dados criptografado em repouso e em trânsito",
+                    "Gerenciamento de sessões com expiração automática",
+                    "Controle de acesso de privilégio mínimo e auditoria",
+                    "Redundância regional com recuperação de desastres"
+                ]
+            },
+            {
+                "heading": "Conformidade",
+                "text": "Estamos alinhados com GDPR, UK GDPR, CCPA/CPRA, LGPD, PIPEDA, KVKK, APPI, PDPA e POPIA."
+            },
+            {
+                "heading": "Seus direitos",
+                "text": "Você pode acessar, corrigir ou excluir seus dados a qualquer momento entrando em contato pelo nosso servidor de suporte."
+            }
+        ]
+    },
+    "tos": {
+        "title": "Termos de Serviço",
+        "updated": "Última atualização: 13 de julho de 2026",
+        "sections": [
+            {
+                "heading": "Aceitação",
+                "text": "Usar o Beatra significa que você concorda com estes termos. Continuar usando após atualizações conta como aceitação."
+            },
+            {
+                "heading": "Serviço",
+                "text": "O Beatra oferece um bot de música para Discord e painel web: reprodução de YouTube, Spotify, SoundCloud e mais, gerenciamento de playlists, controle de fila, painel web, efeitos de áudio, recursos premium e suporte a 21 idiomas."
+            },
+            {
+                "heading": "Responsabilidades do usuário",
+                "items": [
+                    "Siga os Termos do Discord e as regras do seu servidor",
+                    "Use apenas conteúdo lícito e devidamente autorizado",
+                    "Não abuse, faça spam ou interrompa o serviço",
+                    "Não faça engenharia reversa nem tente acesso não autorizado",
+                    "Respeite outros usuários e decisões de moderação"
+                ]
+            },
+            {
+                "heading": "Disponibilidade",
+                "text": "O Beatra é fornecido \"como está\". A disponibilidade pode variar devido à infraestrutura, plataformas de terceiros ou manutenção."
+            },
+            {
+                "heading": "Proibido",
+                "items": [
+                    "Violações de direitos autorais ou propriedade intelectual no conteúdo reproduzido",
+                    "Atacar ou sobrecarregar o serviço",
+                    "Redistribuição não autorizada do nosso código",
+                    "Assédio ou atividade maliciosa",
+                    "Burlar controles de cobrança ou segurança"
+                ]
+            },
+            {
+                "heading": "Premium",
+                "text": "O Premium está disponível por $1,49/mês. Reembolsos seguem nossa política de reembolso."
+            }
+        ]
+    },
+    "notFound": {
+        "title": "404",
+        "message": "Esta página não existe. Vamos te colocar de volta no caminho certo.",
+        "button": "Voltar ao início"
+    },
+    "howItWorks": {
+        "eyebrow": "Comece rápido",
+        "title": "Música no seu servidor em três passos",
+        "subtitle": "Sem configurar painel, cargos complicados ou espera. Convide o Beatra e toque com comandos do Discord.",
+        "steps": [
+            {
+                "title": "Convide o Beatra",
+                "description": "Adicione o bot ao seu servidor com as permissões necessárias para música."
+            },
+            {
+                "title": "Entre em um canal de voz",
+                "description": "Escolha o canal onde sua comunidade fica e deixe o Beatra conectar."
+            },
+            {
+                "title": "Toque qualquer coisa",
+                "description": "Use /play com nome ou link do YouTube, Spotify, SoundCloud e mais."
+            }
+        ]
+    },
+    "homePremium": {
+        "eyebrow": "Poder Premium",
+        "title": "Mais espaço para servidores de música ativos",
+        "subtitle": "Premium remove barreiras de voto e amplia filas, playlists, efeitos e escuta 24/7.",
+        "button": "Ver Premium",
+        "highlights": [
+            {
+                "icon": "clock",
+                "title": "Música 24/7",
+                "description": "Mantenha o Beatra conectado e tocando mesmo quando o canal ficar vazio."
+            },
+            {
+                "icon": "queue",
+                "title": "Filas maiores",
+                "description": "Vá de 100 faixas grátis para milhares de faixas nos planos premium."
+            },
+            {
+                "icon": "volume",
+                "title": "Mais controle",
+                "description": "Libere volume maior, efeitos ilimitados, controle de velocidade e sem votos obrigatórios."
+            }
+        ]
+    },
+    "experience": {
+        "eyebrow": "Experiência completa",
+        "title": "Feito para como comunidades do Discord ouvem música",
+        "subtitle": "Beatra é mais que /play: traz descoberta, controle e escuta compartilhada.",
+        "items": [
+            {
+                "icon": "music",
+                "title": "Reprodução multi-fonte",
+                "description": "Pesquise ou cole links de plataformas populares e mantenha a fila andando."
+            },
+            {
+                "icon": "users",
+                "title": "Playlists da comunidade",
+                "description": "Crie, salve e compartilhe playlists para seu servidor voltar quando quiser."
+            },
+            {
+                "icon": "sliders",
+                "title": "Controles do painel",
+                "description": "Gerencie fila, volume, idioma e ajustes do servidor pelo painel web."
+            }
+        ]
+    },
+    "premium": {
+        "eyebrow": "Beatra Premium",
+        "title": "Desbloqueie poder ilimitado",
+        "subtitle": "Escolha o plano Beatra certo para você, seu servidor inteiro ou um bot personalizado com sua marca.",
+        "perMonth": "/ mês",
+        "comparisonEyebrow": "O que melhora",
+        "comparisonTitle": "Recursos premium para servidores ativos",
+        "comparisonSubtitle": "Os planos pagos ampliam os limites mais importantes para ouvir juntos todos os dias.",
+        "faqTitle": "FAQ Premium",
+        "plans": [
+            {
+                "name": "Premium",
+                "price": "$1.49",
+                "badge": "Mais popular",
+                "featured": true,
+                "description": "Ideal para ouvintes ativos.",
+                "cta": "Obter Premium",
+                "features": [
+                    "Fila de até 2.000 faixas",
+                    "10 playlists personalizadas (vs 3 grátis)",
+                    "200 faixas por playlist (vs 50 grátis)",
+                    "Volume até 1000%",
+                    "Efeitos de áudio ilimitados/dia",
+                    "Controle de velocidade (0.25x-3x)",
+                    "Wrapped 2x/mês + pode ocultar (vs 1x/3 meses grátis)",
+                    "Sem anúncios e sem votos obrigatórios"
+                ]
+            },
+            {
+                "name": "Premium Plus",
+                "price": "$2.49",
+                "badge": "Mais limites",
+                "featured": false,
+                "description": "Para quem quer limites pessoais dobrados.",
+                "cta": "Obter Premium Plus",
+                "features": [
+                    "Fila de até 4.000 faixas",
+                    "20 playlists personalizadas (vs 3 grátis)",
+                    "400 faixas por playlist (vs 50 grátis)",
+                    "Volume até 2000%",
+                    "Efeitos de áudio ilimitados/dia",
+                    "Controle de velocidade (0.25x-3x)",
+                    "Wrapped 4x/mês",
+                    "Sem anúncios e sem votos obrigatórios"
+                ]
+            }
+        ],
+        "highlights": [
+            {
+                "icon": "clock",
+                "title": "Modo 24/7",
+                "description": "O Beatra pode ficar no canal de voz e manter a música o dia todo."
+            },
+            {
+                "icon": "queue",
+                "title": "Filas enormes",
+                "description": "Servidores premium podem criar sessões longas sem falta de espaço."
+            },
+            {
+                "icon": "volume",
+                "title": "Áudio avançado",
+                "description": "Use volume maior, efeitos, filtros e velocidade com menos restrições."
+            },
+            {
+                "icon": "sparkles",
+                "title": "Sem barreiras de voto",
+                "description": "Premium remove a obrigação de votar para o servidor focar na música."
+            }
+        ],
+        "faq": [
+            {
+                "question": "O Beatra grátis continua disponível?",
+                "answer": "Sim. O plano gratuito mantém reprodução, filas, playlists e controles básicos."
+            },
+            {
+                "question": "Qual plano devo escolher?",
+                "answer": "Premium atende a maioria dos servidores. Premium Plus é melhor para duplicar limites."
+            },
+            {
+                "question": "Onde compro?",
+                "answer": "Use o botão Premium e conclua a compra pelo fluxo oficial do Beatra."
+            },
+            {
+                "question": "Posso receber suporte?",
+                "answer": "Sim. Entre no servidor de suporte para ajuda com cobrança, benefícios e configuração."
+            }
+        ],
+        "categories": [
+            {
+                "key": "personal",
+                "label": "Pessoal",
+                "eyebrow": "Para ouvintes",
+                "title": "Upgrades pessoais",
+                "subtitle": "Melhore sua experiência Beatra em qualquer lugar onde ouvir.",
+                "columns": "2",
+                "plans": [
+                    {
+                        "name": "Premium",
+                        "price": "$1.49",
+                        "badge": "Mais popular",
+                        "featured": true,
+                        "description": "Ideal para ouvintes ativos.",
+                        "cta": "Obter Premium",
+                        "features": [
+                            "Fila de até 2.000 faixas",
+                            "10 playlists personalizadas (vs 3 grátis)",
+                            "200 faixas por playlist (vs 50 grátis)",
+                            "Volume até 1000%",
+                            "Efeitos de áudio ilimitados/dia",
+                            "Controle de velocidade (0.25x-3x)",
+                            "Wrapped 2x/mês + pode ocultar (vs 1x/3 meses grátis)",
+                            "Sem anúncios e sem votos obrigatórios"
+                        ]
+                    },
+                    {
+                        "name": "Premium Plus",
+                        "price": "$2.49",
+                        "badge": "Mais limites",
+                        "featured": false,
+                        "description": "Limites pessoais dobrados.",
+                        "cta": "Obter Premium Plus",
+                        "features": [
+                            "Fila de até 4.000 faixas",
+                            "20 playlists personalizadas (vs 3 grátis)",
+                            "400 faixas por playlist (vs 50 grátis)",
+                            "Volume até 2000%",
+                            "Efeitos de áudio ilimitados/dia",
+                            "Controle de velocidade (0.25x-3x)",
+                            "Wrapped 4x/mês",
+                            "Sem anúncios e sem votos obrigatórios"
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "server",
+                "label": "Premium de servidor",
+                "eyebrow": "Para um servidor",
+                "title": "Benefícios premium para todos em um servidor escolhido",
+                "subtitle": "Uma assinatura para o servidor melhora acesso, reprodução e estabilidade para membros que escutam ali.",
+                "columns": "3",
+                "plans": [
+                    {
+                        "name": "Server Premium",
+                        "kicker": "Server Premium",
+                        "price": "$4.99",
+                        "badge": "Server",
+                        "featured": false,
+                        "description": "Premium para um servidor.",
+                        "cta": "Obter Premium",
+                        "selectorLabel": "Selecionar servidor para melhorar",
+                        "selectedServer": "Servidor de teste",
+                        "manageLabel": "Gerenciar assinaturas do servidor",
+                        "features": [
+                            "Sem anúncios para todo o servidor",
+                            "Ninguém precisa votar",
+                            "Modo 24/7 e autoleave",
+                            "Configuração de saída automática do canal de voz",
+                            "Controle de velocidade (0.25x-3x)",
+                            "Limite de fila de 2.000 músicas",
+                            "Volume até 1000%",
+                            "Efeitos de áudio ilimitados/dia",
+                            "Todos os membros recebem benefícios premium",
+                            "Uma assinatura cobre todos",
+                            "Até 30% mais estabilidade e reprodução do YouTube que um servidor normal",
+                            "Todos podem usar recursos completos de Personal Premium ao ouvir aqui",
+                            "10 playlists personalizadas (vs 3 grátis)",
+                            "200 faixas por playlist (vs 50 grátis)",
+                            "Wrapped 2x/mês + pode ocultar (vs 1x/3 meses grátis)"
+                        ]
+                    },
+                    {
+                        "name": "Team Server Premium",
+                        "kicker": "Team Premium",
+                        "price": "$6.99",
+                        "badge": "Team Premium",
+                        "featured": true,
+                        "description": "Acesso Team para um servidor.",
+                        "cta": "Obter Premium",
+                        "selectorLabel": "Selecionar servidor para melhorar",
+                        "selectedServer": "Servidor de teste",
+                        "manageLabel": "Gerenciar assinaturas do servidor",
+                        "features": [
+                            "Sem anúncios para todo o servidor",
+                            "Ninguém precisa votar",
+                            "Modo 24/7 e autoleave",
+                            "Configuração de saída automática do canal de voz",
+                            "Controle de velocidade (0.25x-3x)",
+                            "Limite de fila de 2.000 músicas",
+                            "Volume até 1000%",
+                            "Efeitos de áudio ilimitados/dia",
+                            "Todos os membros recebem benefícios premium",
+                            "Uma assinatura cobre todos",
+                            "Até 30% mais estabilidade e reprodução do YouTube que um servidor normal",
+                            "Todos podem usar recursos completos de Personal Premium ao ouvir aqui",
+                            "10 playlists personalizadas (vs 3 grátis)",
+                            "200 faixas por playlist (vs 50 grátis)",
+                            "Wrapped 2x/mês + pode ocultar (vs 1x/3 meses grátis)",
+                            "Todos no servidor recebem Premium Plus",
+                            "Limites 2x - fila 4000, 20 playlists, 400 faixas, volume 2000%"
+                        ]
+                    },
+                    {
+                        "name": "Ultra Server Premium",
+                        "kicker": "Ultra",
+                        "price": "$9.49",
+                        "badge": "Ultra",
+                        "featured": false,
+                        "description": "Mais poder",
+                        "cta": "Obter Premium",
+                        "selectorLabel": "Selecionar servidor para melhorar",
+                        "selectedServer": "Servidor de teste",
+                        "manageLabel": "Gerenciar assinaturas do servidor",
+                        "features": [
+                            "Todos no servidor recebem Premium Plus",
+                            "Todos podem usar recursos completos de Personal Premium ao ouvir aqui",
+                            "20 playlists personalizadas (vs 3 grátis)",
+                            "400 faixas por playlist (vs 50 grátis)",
+                            "Wrapped 2x/mês + pode ocultar (vs 1x/3 meses grátis)",
+                            "Sem anúncios para todo o servidor",
+                            "Ninguém precisa votar",
+                            "Modo 24/7 e autoleave",
+                            "Configuração de saída automática do canal de voz",
+                            "Controle de velocidade (0.25x-3x)",
+                            "Limite de fila de 4.000 músicas",
+                            "Volume até 2000%",
+                            "Efeitos de áudio ilimitados/dia",
+                            "Todos os membros recebem benefícios premium",
+                            "Uma assinatura cobre todos",
+                            "Até 30% mais estabilidade e reprodução do YouTube que um servidor normal"
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "custom",
+                "label": "Bot personalizado",
+                "eyebrow": "Seu próprio bot",
+                "title": "Sua marca, seu bot e poder premium incluído",
+                "subtitle": "Lance um bot com tecnologia Beatra com nome, avatar, banner, prefixo e painel próprios.",
+                "columns": "2",
+                "plans": [
+                    {
+                        "name": "Custom Bot",
+                        "price": "$11.99",
+                        "badge": "Bot personalizado",
+                        "featured": false,
+                        "description": "Seu bot com marca.",
+                        "cta": "Obter Custom Bot",
+                        "ctaIcon": "discord",
+                        "features": [
+                            "Até 3 servidores",
+                            "Seu próprio bot com nome, avatar e banner",
+                            "Defina um prefixo de comandos personalizado",
+                            "Gerencie pelo seu painel: ping, now playing, branding",
+                            "Sem anúncios para todo o servidor",
+                            "Ninguém precisa votar",
+                            "Modo 24/7 e autoleave",
+                            "Configuração de saída automática do canal de voz",
+                            "Controle de velocidade (0.25x-3x)",
+                            "Limite de fila de 2.000 músicas",
+                            "Volume até 1000%",
+                            "Efeitos de áudio ilimitados/dia",
+                            "Todos os membros recebem benefícios premium",
+                            "Uma assinatura cobre todos",
+                            "Até 30% mais estabilidade e reprodução do YouTube que um servidor normal",
+                            "Todos podem usar recursos completos de Personal Premium ao ouvir aqui",
+                            "10 playlists personalizadas (vs 3 grátis)",
+                            "200 faixas por playlist (vs 50 grátis)",
+                            "Wrapped 2x/mês + pode ocultar (vs 1x/3 meses grátis)"
+                        ]
+                    },
+                    {
+                        "name": "Ultra Custom Bot",
+                        "price": "$14.99",
+                        "badge": "Melhor valor",
+                        "featured": true,
+                        "description": "Mais poder",
+                        "cta": "Obter Ultra",
+                        "ctaIcon": "discord",
+                        "features": [
+                            "Até 5 servidores",
+                            "Todos no servidor recebem Premium Plus",
+                            "Seu próprio bot com nome, avatar e banner",
+                            "Defina um prefixo de comandos personalizado",
+                            "Gerencie pelo seu painel: ping, now playing, branding",
+                            "Todos podem usar recursos completos de Personal Premium ao ouvir aqui",
+                            "20 playlists personalizadas (vs 3 grátis)",
+                            "400 faixas por playlist (vs 50 grátis)",
+                            "Wrapped 2x/mês + pode ocultar (vs 1x/3 meses grátis)",
+                            "Sem anúncios para todo o servidor",
+                            "Ninguém precisa votar",
+                            "Modo 24/7 e autoleave",
+                            "Configuração de saída automática do canal de voz",
+                            "Controle de velocidade (0.25x-3x)",
+                            "Limite de fila de 4.000 músicas",
+                            "Volume até 2000%",
+                            "Efeitos de áudio ilimitados/dia",
+                            "Todos os membros recebem benefícios premium",
+                            "Uma assinatura cobre todos",
+                            "Até 30% mais estabilidade e reprodução do YouTube que um servidor normal"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "moreIncluded": "+{count} benefícios adicionais incluídos"
+    }
+}

@@ -1,0 +1,584 @@
+{
+    "meta": {
+        "title": "Beatra — En İyi Ücretsiz Discord Müzik Botu",
+        "description": "Yüksek kaliteli müzik akışı, 7/24 çalışma süresi ve sıfır maliyet için Beatra'yı sunucunuza ekleyin. Basit, güvenilir, açık kaynak."
+    },
+    "nav": {
+        "home": "Anasayfa",
+        "commands": "Komutlar",
+        "partners": "Partnerler",
+        "support": "Destek",
+        "invite": "Davet Et",
+        "premium": "Premium",
+        "customize": "Özelleştir",
+        "close": "Kapat"
+    },
+    "hero": {
+        "eyebrow": "Sonsuza kadar ücretsiz · Kredi kartı gerekmez",
+        "title": "Sorunsuz çalışan bir Discord botu",
+        "subtitle": "Beatra, 7/24 çalışma süresi, basit komutlar ve sıfır kurulum maliyetiyle sunucunuza yüksek kaliteli müzik akışı getirir.",
+        "ctaPrimary": "Beatra'yı Davet Et",
+        "ctaSecondary": "Destek Sunucusuna Katıl",
+        "highlights": [
+            "YouTube, Spotify ve SoundCloud",
+            "Şarkı sözleri, kuyruklar ve listeler",
+            "Web panelinden kontrol"
+        ]
+    },
+    "stats": {
+        "uptime": {
+            "value": "7/24",
+            "label": "Çalışma süresi"
+        },
+        "cost": {
+            "value": "Ücretsiz",
+            "label": "Maliyet"
+        },
+        "servers": {
+            "value": "Sınırsız",
+            "label": "Sunucu"
+        },
+        "setup": {
+            "value": "< 1 dk",
+            "label": "Kurulum"
+        }
+    },
+    "features": {
+        "eyebrow": "Neden Beatra",
+        "title": "İlk günden itibaren her sunucu için tasarlandı",
+        "subtitle": "Küçük arkadaş gruplarından binlerce üyeli topluluklara kadar, Beatra sizinle birlikte büyür.",
+        "items": [
+            {
+                "icon": "bolt",
+                "title": "Her zaman çevrimiçi",
+                "description": "İzlenen altyapı tarafından desteklenen 7/24 çalışma süresi sayesinde sunucunuz asla sessiz kalmaz."
+            },
+            {
+                "icon": "sliders",
+                "title": "İnce ayarlanabilir kontrol",
+                "description": "Sunucunuza özel hızlı ve özelleştirilebilir ayarlarla Beatra tam istediğiniz gibi davranır."
+            },
+            {
+                "icon": "shieldCheck",
+                "title": "Açık ve güvenli",
+                "description": "Beatra açık kaynaklıdır. Kodu inceleyin, kendiniz denetleyin veya doğrudan GitHub üzerinden katkıda bulunun."
+            },
+            {
+                "icon": "lifebuoy",
+                "title": "Kesintisiz destek",
+                "description": "İhtiyacınız olduğunda yardımcı olmaya hazır, destek sunucumuzun arkasındaki hızlı ekibimiz."
+            }
+        ]
+    },
+    "cta": {
+        "title": "Sunucunuzu bir üst seviyeye taşımaya hazır mısınız?",
+        "subtitle": "Beatra'yı saniyeler içinde ekleyin ve Discord'un sunabileceği en iyi ses kalitesini yaşamaya başlayın.",
+        "button": "Beatra'yı Davet Et"
+    },
+    "footer": {
+        "description": "En iyi ücretsiz Discord müzik botu. 7/24 çalışma süresiyle yüksek kaliteli ses, tamamen ücretsiz.",
+        "bot": {
+            "title": "Bot",
+            "invite": "Botu Davet Et",
+            "vote": "Oy Ver",
+            "support": "Destek Sunucusu"
+        },
+        "site": {
+            "title": "Site",
+            "commands": "Komutlar",
+            "partners": "Partnerler",
+            "github": "GitHub"
+        },
+        "legal": {
+            "title": "Yasal",
+            "tos": "Kullanım Şartları",
+            "privacy": "Gizlilik Politikası"
+        },
+        "status": "Tüm sistemler çalışıyor",
+        "credit": "{name} tarafından desteklenmektedir"
+    },
+    "commands": {
+        "title": "Bot Komutları",
+        "subtitle": "Beatra'nın desteklediği tüm slash komutları, sunucunuzda kullanıma hazır.",
+        "groups": {
+            "playback": "Oynatma",
+            "queue": "Kuyruk ve çalma listeleri",
+            "utility": "Sunucu ve araçlar"
+        },
+        "ctaInvite": "Beatra'yı Davet Et",
+        "ctaSupport": "Destek Sunucusu",
+        "ctaVote": "Beatra'ya Oy Ver"
+    },
+    "partners": {
+        "title": "Partnerler",
+        "subtitle": "Çalışmaktan gurur duyduğumuz ekipler ve topluluklar.",
+        "codeshare": "Geliştiricilerin projelerini paylaşabileceği, diğer geliştiricilerle bağlantı kurabileceği ve çalışmalarını birçok kategori ve dilde satabileceği ideal bir platform.",
+        "productsTitle": "Codeshare Ürünleri",
+        "productsSubtitle": "Codeshare ekibi tarafından geliştirilen ve sürdürülen diğer ürünler."
+    },
+    "privacy": {
+        "title": "Gizlilik Politikası",
+        "updated": "Son güncelleme: 13 Temmuz 2026",
+        "sections": [
+            {
+                "heading": "Topladığımız veriler",
+                "items": [
+                    "Discord Kullanıcı ID'si — kimlik doğrulama ve izinler için",
+                    "Discord Sunucu ID'si — botun nerede kurulu olduğunu takip etmek için",
+                    "Müzik dinleme geçmişi — şarkı adları, URL'ler ve isteyen kişi",
+                    "Ses kanalı bağlantı verisi — çalma işlemi için gerekli",
+                    "Çalma listesi verisi — özel çalma listeleriniz",
+                    "Kuyruk bilgisi — mevcut ve sıradaki şarkılar"
+                ],
+                "note": "Toplanmayanlar: şifreler, ödeme bilgileri, özel mesajlar veya ses kayıtları."
+            },
+            {
+                "heading": "Verileri nasıl kullanıyoruz",
+                "items": [
+                    "Temel müzik çalma ve kuyruk yönetimi",
+                    "Rol tabanlı izinler ve erişim kontrolü",
+                    "Çalma listesi ve tercih saklama",
+                    "Premium hak tanımlama",
+                    "Servis kalitesi izleme ve kötüye kullanım önleme"
+                ],
+                "note": "Verilerinizi satmıyor veya reklam profillemesi için kullanmıyoruz."
+            },
+            {
+                "heading": "Güvenlik",
+                "items": [
+                    "Veritabanı, hem bekleme hem iletim sırasında şifrelenir",
+                    "Otomatik süre dolumu olan kapsamlı oturum yönetimi",
+                    "En az yetki ilkesiyle erişim kontrolü ve denetim",
+                    "Bölgesel yedeklilik ve felaket kurtarma"
+                ]
+            },
+            {
+                "heading": "Uyumluluk",
+                "text": "GDPR, UK GDPR, CCPA/CPRA, LGPD, PIPEDA, KVKK, APPI, PDPA ve POPIA ile uyumluyuz."
+            },
+            {
+                "heading": "Haklarınız",
+                "text": "Destek sunucumuz üzerinden bize ulaşarak verilerinize istediğiniz zaman erişebilir, düzeltebilir veya silebilirsiniz."
+            }
+        ]
+    },
+    "tos": {
+        "title": "Kullanım Şartları",
+        "updated": "Son güncelleme: 13 Temmuz 2026",
+        "sections": [
+            {
+                "heading": "Kabul",
+                "text": "Beatra'yı kullanmak bu şartları kabul ettiğiniz anlamına gelir. Güncellemelerden sonra kullanmaya devam etmek kabul sayılır."
+            },
+            {
+                "heading": "Hizmet",
+                "text": "Beatra; YouTube, Spotify, SoundCloud ve daha fazlasından müzik çalma, çalma listesi yönetimi, kuyruk kontrolü, web paneli, ses efektleri, premium özellikler ve 21 dil desteği içeren bir Discord müzik botu ve web paneli hizmeti sunar."
+            },
+            {
+                "heading": "Kullanıcı sorumlulukları",
+                "items": [
+                    "Discord Kullanım Şartlarına ve sunucu kurallarına uyun",
+                    "Yalnızca yasal ve yetkilendirilmiş içerik kullanın",
+                    "Hizmeti kötüye kullanmayın, spam yapmayın veya aksatmayın",
+                    "Tersine mühendislik yapmayın veya yetkisiz erişim denemeyin",
+                    "Diğer kullanıcılara ve moderasyon kararlarına saygı gösterin"
+                ]
+            },
+            {
+                "heading": "Kullanılabilirlik",
+                "text": "Beatra \"olduğu gibi\" sunulur. Altyapı, üçüncü taraf platformlar veya bakım nedeniyle kullanılabilirlik değişebilir."
+            },
+            {
+                "heading": "Yasaklananlar",
+                "items": [
+                    "Çalınan içerikte telif hakkı veya fikri mülkiyet ihlalleri",
+                    "Hizmete saldırma veya aşırı yükleme",
+                    "Kodumuzun izinsiz yeniden dağıtımı",
+                    "Taciz veya kötü niyetli faaliyet",
+                    "Faturalandırma veya güvenlik kontrollerini atlatma"
+                ]
+            },
+            {
+                "heading": "Premium",
+                "text": "Premium, aylık 1.49$ karşılığında sunulur. İadeler iade politikamıza tabidir."
+            }
+        ]
+    },
+    "notFound": {
+        "title": "404",
+        "message": "Bu sayfa mevcut değil. Sizi doğru yere geri götürelim.",
+        "button": "Anasayfaya dön"
+    },
+    "howItWorks": {
+        "eyebrow": "Hızlı başla",
+        "title": "Üç adımda sunucunda müzik",
+        "subtitle": "Panel kurcalama, karmaşık rol ayarı veya bekleme yok. Beatra’yı davet et ve Discord komutlarıyla hemen çalmaya başla.",
+        "steps": [
+            {
+                "title": "Beatra’yı davet et",
+                "description": "Müzik çalmak için gereken izinlerle botu Discord sunucuna ekle."
+            },
+            {
+                "title": "Ses kanalına katıl",
+                "description": "Topluluğunun takıldığı kanalı seç ve Beatra’nın oraya bağlanmasını sağla."
+            },
+            {
+                "title": "İstediğini çal",
+                "description": "YouTube, Spotify, SoundCloud ve daha fazlasından şarkı adı veya bağlantıyla /play kullan."
+            }
+        ]
+    },
+    "homePremium": {
+        "eyebrow": "Premium güç",
+        "title": "Ciddi müzik sunucuları için daha fazla alan",
+        "subtitle": "Premium; oy verme zorunluluğunu kaldırır, kuyruk, çalma listesi, efekt ve 7/24 dinleme limitlerini büyütür.",
+        "button": "Premium’u Gör",
+        "highlights": [
+            {
+                "icon": "clock",
+                "title": "7/24 müzik",
+                "description": "Kanal boşalsa bile Beatra bağlı kalıp müziği sürdürebilir."
+            },
+            {
+                "icon": "queue",
+                "title": "Daha büyük kuyruklar",
+                "description": "Ücretsiz 100 parçalık kuyruktan premiumda binlerce parçaya kadar büyüt."
+            },
+            {
+                "icon": "volume",
+                "title": "Daha fazla kontrol",
+                "description": "Yüksek ses, sınırsız efekt, hız kontrolü ve oy duvarı olmayan deneyimi aç."
+            }
+        ]
+    },
+    "experience": {
+        "eyebrow": "Tam deneyim",
+        "title": "Discord topluluklarının dinleme şekline göre tasarlandı",
+        "subtitle": "Beatra sadece /play komutu değildir; keşif, kontrol ve birlikte dinleme için araçlar sunar.",
+        "items": [
+            {
+                "icon": "music",
+                "title": "Çok kaynaklı oynatma",
+                "description": "Popüler müzik platformlarından arama yap veya link yapıştır, kuyruk akmaya devam etsin."
+            },
+            {
+                "icon": "users",
+                "title": "Topluluk listeleri",
+                "description": "Sunucunun istediği zaman dönebileceği çalma listeleri oluştur, kaydet ve paylaş."
+            },
+            {
+                "icon": "sliders",
+                "title": "Panel kontrolleri",
+                "description": "Kuyruk, ses, dil ve sunucu ayarlarını web panelinden yönet."
+            }
+        ]
+    },
+    "premium": {
+        "eyebrow": "Beatra Premium",
+        "title": "Sınırsız gücü aç",
+        "subtitle": "Kendin, tüm sunucun veya tamamen markalı custom botun için doğru Beatra paketini seç.",
+        "perMonth": "/ ay",
+        "comparisonEyebrow": "Neler gelişir",
+        "comparisonTitle": "Aktif sunucular için premium özellikler",
+        "comparisonSubtitle": "Ücretli paketler, her gün birlikte müzik dinleyen topluluklar için en önemli limitleri genişletir.",
+        "faqTitle": "Premium SSS",
+        "plans": [
+            {
+                "name": "Premium",
+                "price": "$1.49",
+                "badge": "En popüler",
+                "featured": true,
+                "description": "Aktif dinleyiciler için ideal.",
+                "cta": "Premium Al",
+                "features": [
+                    "2.000 parçaya kadar kuyruk",
+                    "10 özel çalma listesi (ücretsiz 3)",
+                    "Liste başına 200 parça (ücretsiz 50)",
+                    "%1000’e kadar ses",
+                    "Günde sınırsız ses efekti",
+                    "Oynatma hızı kontrolü (0.25x-3x)",
+                    "Ayda 2 Wrapped + gizleyebilme (ücretsiz 3 ayda 1)",
+                    "Reklam yok ve oy verme gerekmez"
+                ]
+            },
+            {
+                "name": "Premium Plus",
+                "price": "$2.49",
+                "badge": "Daha fazla limit",
+                "featured": false,
+                "description": "Kişisel limitleri iki kat isteyenler için.",
+                "cta": "Premium Plus Al",
+                "features": [
+                    "4.000 parçaya kadar kuyruk",
+                    "20 özel çalma listesi (ücretsiz 3)",
+                    "Liste başına 400 parça (ücretsiz 50)",
+                    "%2000’e kadar ses",
+                    "Günde sınırsız ses efekti",
+                    "Oynatma hızı kontrolü (0.25x-3x)",
+                    "Ayda 4 Wrapped",
+                    "Reklam yok ve oy verme gerekmez"
+                ]
+            }
+        ],
+        "highlights": [
+            {
+                "icon": "clock",
+                "title": "7/24 mod",
+                "description": "Beatra ses kanalında kalıp müziği gün boyu sürdürebilir."
+            },
+            {
+                "icon": "queue",
+                "title": "Dev kuyruklar",
+                "description": "Premium sunucular alan bitmeden uzun oturumlar hazırlayabilir."
+            },
+            {
+                "icon": "volume",
+                "title": "Gelişmiş ses",
+                "description": "Daha yüksek ses limitleri, efektler, filtreler ve hız kontrolünü daha az kısıtla kullan."
+            },
+            {
+                "icon": "sparkles",
+                "title": "Oy duvarı yok",
+                "description": "Premium oy verme zorunluluğunu kaldırır, sunucun sadece dinlemeye odaklanır."
+            }
+        ],
+        "faq": [
+            {
+                "question": "Ücretsiz Beatra devam ediyor mu?",
+                "answer": "Evet. Ücretsiz paket temel oynatma, kuyruk, çalma listeleri ve temel kontrolleri içerir."
+            },
+            {
+                "question": "Hangi paketi seçmeliyim?",
+                "answer": "Çoğu sunucu için Premium yeterlidir. Premium Plus; kuyruk, liste ve ses limitlerini ikiye katlamak isteyenler için daha iyidir."
+            },
+            {
+                "question": "Nereden satın alırım?",
+                "answer": "Premium butonunu kullanıp resmi Beatra satın alma akışını tamamlayabilirsin."
+            },
+            {
+                "question": "Destek alabilir miyim?",
+                "answer": "Evet. Faturalandırma, hak tanımlama ve kurulum yardımı için destek sunucusuna katıl."
+            }
+        ],
+        "categories": [
+            {
+                "key": "personal",
+                "label": "Kişisel",
+                "eyebrow": "Dinleyiciler için",
+                "title": "Kişisel yükseltmeler",
+                "subtitle": "Dinlediğin her yerde kendi Beatra deneyimini yükselt.",
+                "columns": "2",
+                "plans": [
+                    {
+                        "name": "Premium",
+                        "price": "$1.49",
+                        "badge": "En popüler",
+                        "featured": true,
+                        "description": "Aktif dinleyiciler için ideal.",
+                        "cta": "Premium Al",
+                        "features": [
+                            "2.000 parçaya kadar kuyruk",
+                            "10 özel çalma listesi (ücretsiz 3)",
+                            "Liste başına 200 parça (ücretsiz 50)",
+                            "%1000’e kadar ses",
+                            "Günde sınırsız ses efekti",
+                            "Oynatma hızı kontrolü (0.25x-3x)",
+                            "Ayda 2 Wrapped + gizleyebilme (ücretsiz 3 ayda 1)",
+                            "Reklam yok ve oy verme gerekmez"
+                        ]
+                    },
+                    {
+                        "name": "Premium Plus",
+                        "price": "$2.49",
+                        "badge": "Daha fazla limit",
+                        "featured": false,
+                        "description": "İki kat kişisel limit.",
+                        "cta": "Premium Plus Al",
+                        "features": [
+                            "4.000 parçaya kadar kuyruk",
+                            "20 özel çalma listesi (ücretsiz 3)",
+                            "Liste başına 400 parça (ücretsiz 50)",
+                            "%2000’e kadar ses",
+                            "Günde sınırsız ses efekti",
+                            "Oynatma hızı kontrolü (0.25x-3x)",
+                            "Ayda 4 Wrapped",
+                            "Reklam yok ve oy verme gerekmez"
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "server",
+                "label": "Server Premium",
+                "eyebrow": "Tek sunucu için",
+                "title": "Seçilen sunucudaki herkes için premium avantajlar",
+                "subtitle": "Sunucu genelindeki tek abonelik, o sunucuda dinleyen üyeler için erişim, oynatma avantajı ve stabiliteyi artırır.",
+                "columns": "3",
+                "plans": [
+                    {
+                        "name": "Server Premium",
+                        "kicker": "Server Premium",
+                        "price": "$4.99",
+                        "badge": "Server",
+                        "featured": false,
+                        "description": "Tek sunucu için premium.",
+                        "cta": "Premium Al",
+                        "selectorLabel": "Yükseltilecek sunucuyu seç",
+                        "selectedServer": "Test Sunucusu",
+                        "manageLabel": "Sunucu aboneliklerini yönet",
+                        "features": [
+                            "Tüm sunucu için reklam yok",
+                            "Kimse için oy verme gerekmez",
+                            "7/24 mod ve autoleave",
+                            "Ses kanalından otomatik ayrılma ayarı",
+                            "Oynatma hızı kontrolü (0.25x-3x)",
+                            "2.000 şarkılık kuyruk limiti",
+                            "%1000’e kadar ses",
+                            "Günde sınırsız ses efekti",
+                            "Tüm üyeler premium avantajları alır",
+                            "Tek abonelik herkesi kapsar",
+                            "Normal sunucuya göre %30’a kadar daha akıcı YouTube oynatma ve dinleme stabilitesi",
+                            "Bu sunucuda dinleyen herkes tam Personal Premium özelliklerini kullanabilir",
+                            "10 özel çalma listesi (ücretsiz 3)",
+                            "Liste başına 200 parça (ücretsiz 50)",
+                            "Ayda 2 Wrapped + gizleyebilme (ücretsiz 3 ayda 1)"
+                        ]
+                    },
+                    {
+                        "name": "Team Server Premium",
+                        "kicker": "Team Premium",
+                        "price": "$6.99",
+                        "badge": "Team Premium",
+                        "featured": true,
+                        "description": "Tek sunucu için Team erişimi.",
+                        "cta": "Premium Al",
+                        "selectorLabel": "Yükseltilecek sunucuyu seç",
+                        "selectedServer": "Test Sunucusu",
+                        "manageLabel": "Sunucu aboneliklerini yönet",
+                        "features": [
+                            "Tüm sunucu için reklam yok",
+                            "Kimse için oy verme gerekmez",
+                            "7/24 mod ve autoleave",
+                            "Ses kanalından otomatik ayrılma ayarı",
+                            "Oynatma hızı kontrolü (0.25x-3x)",
+                            "2.000 şarkılık kuyruk limiti",
+                            "%1000’e kadar ses",
+                            "Günde sınırsız ses efekti",
+                            "Tüm üyeler premium avantajları alır",
+                            "Tek abonelik herkesi kapsar",
+                            "Normal sunucuya göre %30’a kadar daha akıcı YouTube oynatma ve dinleme stabilitesi",
+                            "Bu sunucuda dinleyen herkes tam Personal Premium özelliklerini kullanabilir",
+                            "10 özel çalma listesi (ücretsiz 3)",
+                            "Liste başına 200 parça (ücretsiz 50)",
+                            "Ayda 2 Wrapped + gizleyebilme (ücretsiz 3 ayda 1)",
+                            "Sunucudaki herkes Premium Plus alır",
+                            "2 kat limit - 4000 kuyruk, 20 liste, 400 parça, %2000 ses"
+                        ]
+                    },
+                    {
+                        "name": "Ultra Server Premium",
+                        "kicker": "Ultra",
+                        "price": "$9.49",
+                        "badge": "Ultra",
+                        "featured": false,
+                        "description": "Daha fazla güç",
+                        "cta": "Premium Al",
+                        "selectorLabel": "Yükseltilecek sunucuyu seç",
+                        "selectedServer": "Test Sunucusu",
+                        "manageLabel": "Sunucu aboneliklerini yönet",
+                        "features": [
+                            "Sunucudaki herkes Premium Plus alır",
+                            "Bu sunucuda dinleyen herkes tam Personal Premium özelliklerini kullanabilir",
+                            "20 özel çalma listesi (ücretsiz 3)",
+                            "Liste başına 400 parça (ücretsiz 50)",
+                            "Ayda 2 Wrapped + gizleyebilme (ücretsiz 3 ayda 1)",
+                            "Tüm sunucu için reklam yok",
+                            "Kimse için oy verme gerekmez",
+                            "7/24 mod ve autoleave",
+                            "Ses kanalından otomatik ayrılma ayarı",
+                            "Oynatma hızı kontrolü (0.25x-3x)",
+                            "4.000 şarkılık kuyruk limiti",
+                            "%2000’e kadar ses",
+                            "Günde sınırsız ses efekti",
+                            "Tüm üyeler premium avantajları alır",
+                            "Tek abonelik herkesi kapsar",
+                            "Normal sunucuya göre %30’a kadar daha akıcı YouTube oynatma ve dinleme stabilitesi"
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "custom",
+                "label": "Custom Bot",
+                "eyebrow": "Kendi botun",
+                "title": "Kendi markan, kendi botun ve premium güç dahil",
+                "subtitle": "Kendi adı, avatarı, bannerı, prefix’i ve panel kontrolleri olan Beatra destekli botunu çıkar.",
+                "columns": "2",
+                "plans": [
+                    {
+                        "name": "Custom Bot",
+                        "price": "$11.99",
+                        "badge": "Custom Bot",
+                        "featured": false,
+                        "description": "Markalı botun.",
+                        "cta": "Custom Bot Al",
+                        "ctaIcon": "discord",
+                        "features": [
+                            "3 sunucuya kadar",
+                            "Kendi adın, avatarın ve bannerınla sana ait bot",
+                            "Botun için özel komut prefix’i ayarla",
+                            "Kendi panelinden yönet: ping, now playing, branding",
+                            "Tüm sunucu için reklam yok",
+                            "Kimse için oy verme gerekmez",
+                            "7/24 mod ve autoleave",
+                            "Ses kanalından otomatik ayrılma ayarı",
+                            "Oynatma hızı kontrolü (0.25x-3x)",
+                            "2.000 şarkılık kuyruk limiti",
+                            "%1000’e kadar ses",
+                            "Günde sınırsız ses efekti",
+                            "Tüm üyeler premium avantajları alır",
+                            "Tek abonelik herkesi kapsar",
+                            "Normal sunucuya göre %30’a kadar daha akıcı YouTube oynatma ve dinleme stabilitesi",
+                            "Bu sunucuda dinleyen herkes tam Personal Premium özelliklerini kullanabilir",
+                            "10 özel çalma listesi (ücretsiz 3)",
+                            "Liste başına 200 parça (ücretsiz 50)",
+                            "Ayda 2 Wrapped + gizleyebilme (ücretsiz 3 ayda 1)"
+                        ]
+                    },
+                    {
+                        "name": "Ultra Custom Bot",
+                        "price": "$14.99",
+                        "badge": "En iyi değer",
+                        "featured": true,
+                        "description": "Daha fazla güç",
+                        "cta": "Ultra Al",
+                        "ctaIcon": "discord",
+                        "features": [
+                            "5 sunucuya kadar",
+                            "Sunucudaki herkes Premium Plus alır",
+                            "Kendi adın, avatarın ve bannerınla sana ait bot",
+                            "Botun için özel komut prefix’i ayarla",
+                            "Kendi panelinden yönet: ping, now playing, branding",
+                            "Bu sunucuda dinleyen herkes tam Personal Premium özelliklerini kullanabilir",
+                            "20 özel çalma listesi (ücretsiz 3)",
+                            "Liste başına 400 parça (ücretsiz 50)",
+                            "Ayda 2 Wrapped + gizleyebilme (ücretsiz 3 ayda 1)",
+                            "Tüm sunucu için reklam yok",
+                            "Kimse için oy verme gerekmez",
+                            "7/24 mod ve autoleave",
+                            "Ses kanalından otomatik ayrılma ayarı",
+                            "Oynatma hızı kontrolü (0.25x-3x)",
+                            "4.000 şarkılık kuyruk limiti",
+                            "%2000’e kadar ses",
+                            "Günde sınırsız ses efekti",
+                            "Tüm üyeler premium avantajları alır",
+                            "Tek abonelik herkesi kapsar",
+                            "Normal sunucuya göre %30’a kadar daha akıcı YouTube oynatma ve dinleme stabilitesi"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "moreIncluded": "+{count} avantaj daha dahil"
+    }
+}
