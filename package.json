@@ -9,6 +9,9 @@
         "start": "next start",
         "lint": "next lint"
     },
+    "engines": {
+        "node": ">=22"
+    },
     "dependencies": {
         "@once-ui-system/core": "^1.8.0",
         "classnames": "^2.5.1",
