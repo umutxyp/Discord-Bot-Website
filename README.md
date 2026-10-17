@@ -80,7 +80,7 @@ Example localized URLs:
 
 ### Requirements
 
-- Node.js 18.18 or newer
+- Node.js 20.9 or newer
 - npm
 
 ### Installation
